@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ife2002
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ife aka Ozodimgba
+- 👀 I’m interested in challenging projects Javascript and Rust
+- 🌱 I’m currently learning blockchain development on solana
+- 💞️ I’m looking to collaborate on and project that helps the developer community
+- 📫 How to reach me Twitter: @a_ix_d
 
 <!---
 Ife2002/Ife2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
